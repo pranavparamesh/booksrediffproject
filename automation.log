@@ -1,0 +1,25 @@
+2018-05-15 11:03:37 INFO  BaseClass:27 - Executing the testcase GB_01 order set is 1.0
+2018-05-15 11:05:41 INFO  BaseClass:27 - Executing the testcase GB_01 order set is 1.0
+2018-05-15 11:05:45 INFO  BaseClass:41 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-15 11:05:52 INFO  BaseClass:27 - Executing the testcase GB_02 order set is 1.0
+2018-05-15 11:05:54 INFO  BaseClass:41 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-15 11:06:01 INFO  BaseClass:27 - Executing the testcase GB_03 order set is 1.0
+2018-05-15 11:06:04 INFO  BaseClass:41 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-15 11:06:10 INFO  BaseClass:27 - Executing the testcase GB_04 order set is 1.0
+2018-05-15 11:06:12 INFO  BaseClass:41 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-15 11:06:20 INFO  BaseClass:27 - Executing the testcase GB_05 order set is 1.0
+2018-05-15 11:06:23 INFO  BaseClass:41 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-15 11:06:31 INFO  BaseClass:27 - Executing the testcase GB_06 order set is 1.0
+2018-05-15 11:06:32 INFO  BaseClass:41 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-15 11:06:41 INFO  BaseClass:64 - Executing the testcase GB_07 order set is 1.0
+2018-05-15 11:06:44 INFO  BaseClass:84 - Failed as actual result is honeydewz Expected result is honey
+2018-05-15 11:06:54 INFO  BaseClass:64 - Executing the testcase GB_07 order set is 2.0
+2018-05-15 11:06:57 INFO  BaseClass:79 - Passed as actual result is Pranav P Expected result is Pranav P
+2018-05-15 11:20:21 INFO  BaseClass:26 - Executing the testcase GB_08 order set is 1.0
+2018-05-15 11:20:26 INFO  BaseClass:39 - Passed as actual result is Sorry..'HHGJJ' does not match any product on Rediff Books. Expected result is Sorry..'HHGJJ' does not match any product on Rediff Books.
+2018-05-15 11:20:35 INFO  BaseClass:62 - Executing the testcase GB_09 order set is 1.0
+2018-05-15 11:20:40 INFO  BaseClass:74 - Passed as actual result is Found 493 result(s) for 'Ways' Expected result is Found
+2018-05-15 11:20:48 INFO  BaseClass:62 - Executing the testcase GB_10 order set is 1.0
+2018-05-15 11:20:54 INFO  BaseClass:74 - Passed as actual result is Found 89 result(s) for 'Chandler' Expected result is Found
+2018-05-15 11:21:01 INFO  BaseClass:62 - Executing the testcase GB_11 order set is 1.0
+2018-05-15 11:21:07 INFO  BaseClass:74 - Passed as actual result is Found 1 result(s) for 'Jaico' Expected result is Found

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54285" started-at="2018-05-15T05:50:14Z" finished-at="2018-05-15T05:51:09Z">
+    <groups>
+      <group name="regression">
+        <method signature="Scenario_Search.testInvalidSearch(java.util.Map)[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="testInvalidSearch" class="Scenario_Component.Scenario_Search"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="Scenario_Search.testValidSearch(java.util.Map)[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="testValidSearch" class="Scenario_Component.Scenario_Search"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Default test" duration-ms="54285" started-at="2018-05-15T05:50:14Z" finished-at="2018-05-15T05:51:09Z">
+      <class name="Scenario_Component.Scenario_Search">
+        <test-method status="PASS" signature="report_Extent()[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="report_Extent" is-config="true" duration-ms="152" started-at="2018-05-15T11:20:14Z" finished-at="2018-05-15T11:20:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report_Extent -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="launchApplication" is-config="true" duration-ms="5732" started-at="2018-05-15T11:20:15Z" finished-at="2018-05-15T11:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="testInvalidSearch(java.util.Map)[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="testInvalidSearch" duration-ms="7037" started-at="2018-05-15T11:20:21Z" data-provider="dp_InvalidSearch" finished-at="2018-05-15T11:20:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Execute_Flag=Y, TC_ID=GB_08, Keyword=HHGJJ, ScriptName=InvalidSearch, Order_Set=1.0, Expected_Results=Sorry..'HHGJJ' does not match any product on Rediff Books.}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="tearDown" is-config="true" duration-ms="284" started-at="2018-05-15T11:20:28Z" finished-at="2018-05-15T11:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="launchApplication" is-config="true" duration-ms="6608" started-at="2018-05-15T11:20:28Z" finished-at="2018-05-15T11:20:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="testValidSearch(java.util.Map)[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="testValidSearch" duration-ms="6688" started-at="2018-05-15T11:20:35Z" data-provider="dp_validSearch" finished-at="2018-05-15T11:20:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Execute_Flag=Y, TC_ID=GB_09, Keyword=Ways, ScriptName=ValidSearch, Order_Set=1.0, Expected_Results=Found}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="tearDown" is-config="true" duration-ms="78" started-at="2018-05-15T11:20:42Z" finished-at="2018-05-15T11:20:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="launchApplication" is-config="true" duration-ms="6358" started-at="2018-05-15T11:20:42Z" finished-at="2018-05-15T11:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="testValidSearch(java.util.Map)[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="testValidSearch" duration-ms="6575" started-at="2018-05-15T11:20:48Z" data-provider="dp_validSearch" finished-at="2018-05-15T11:20:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Execute_Flag=Y, TC_ID=GB_10, Keyword=Chandler, ScriptName=ValidSearch, Order_Set=1.0, Expected_Results=Found}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="tearDown" is-config="true" duration-ms="55" started-at="2018-05-15T11:20:55Z" finished-at="2018-05-15T11:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="launchApplication" is-config="true" duration-ms="6475" started-at="2018-05-15T11:20:55Z" finished-at="2018-05-15T11:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="testValidSearch(java.util.Map)[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="testValidSearch" duration-ms="7476" started-at="2018-05-15T11:21:01Z" data-provider="dp_validSearch" finished-at="2018-05-15T11:21:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Execute_Flag=Y, TC_ID=GB_11, Keyword=Jaico, ScriptName=ValidSearch, Order_Set=1.0, Expected_Results=Found}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Scenario_Component.Scenario_Search@4bbfb90a]" name="tearDown" is-config="true" duration-ms="36" started-at="2018-05-15T11:21:09Z" finished-at="2018-05-15T11:21:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Scenario_Component.Scenario_Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

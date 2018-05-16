@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Scenario_Component.Scenario_Login">
+        <methods>
+          <include name="launchApplication"/>
+          <include name="tearDown"/>
+          <include name="report_Extent"/>
+          <include name="testValidlogin" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Scenario_Component.Scenario_Login -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

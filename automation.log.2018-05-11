@@ -1,0 +1,56 @@
+2018-05-11 11:00:00 INFO  BaseClass:57 - Executing the testcase GB_07 order set is 1.0
+2018-05-11 11:00:04 INFO  BaseClass:74 - Failed as actual result is honeydewz Expected result is honey
+2018-05-11 11:00:13 INFO  BaseClass:57 - Executing the testcase GB_07 order set is 2.0
+2018-05-11 11:00:15 INFO  BaseClass:70 - Passed as actual result is Pranav P Expected result is Pranav P
+2018-05-11 11:02:15 INFO  BaseClass:25 - Executing the testcase GB_01 order set is 1.0
+2018-05-11 11:02:18 INFO  BaseClass:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-11 11:02:25 INFO  BaseClass:25 - Executing the testcase GB_02 order set is 1.0
+2018-05-11 11:02:27 INFO  BaseClass:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-11 11:02:32 INFO  BaseClass:25 - Executing the testcase GB_03 order set is 1.0
+2018-05-11 11:02:35 INFO  BaseClass:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-11 11:02:42 INFO  BaseClass:25 - Executing the testcase GB_04 order set is 1.0
+2018-05-11 11:02:44 INFO  BaseClass:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-11 11:02:50 INFO  BaseClass:25 - Executing the testcase GB_05 order set is 1.0
+2018-05-11 11:02:52 INFO  BaseClass:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-11 11:03:00 INFO  BaseClass:25 - Executing the testcase GB_06 order set is 1.0
+2018-05-11 11:03:01 INFO  BaseClass:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-11 11:03:07 INFO  BaseClass:57 - Executing the testcase GB_07 order set is 1.0
+2018-05-11 11:03:10 INFO  BaseClass:74 - Failed as actual result is honeydewz Expected result is honey
+2018-05-11 11:03:18 INFO  BaseClass:57 - Executing the testcase GB_07 order set is 2.0
+2018-05-11 11:03:21 INFO  BaseClass:70 - Passed as actual result is Pranav P Expected result is Pranav P
+2018-05-11 11:42:18 INFO  BaseClass:24 - Executing the testcase GB_08 order set is 1.0
+2018-05-11 11:42:19 INFO  BaseClass:34 - Passed as actual result is Sorry..'HHGJJ' does not match any product on Rediff Books. Expected result is Sorry..'HHGJJ' does not match any product on Rediff Books.
+2018-05-11 11:42:25 INFO  BaseClass:55 - Executing the testcase GB_09 order set is 1.0
+2018-05-11 11:42:31 INFO  BaseClass:55 - Executing the testcase GB_10 order set is 1.0
+2018-05-11 11:42:38 INFO  BaseClass:55 - Executing the testcase GB_11 order set is 1.0
+2018-05-11 11:44:38 INFO  BaseClass:24 - Executing the testcase GB_08 order set is 1.0
+2018-05-11 11:44:43 INFO  BaseClass:34 - Passed as actual result is Sorry..'HHGJJ' does not match any product on Rediff Books. Expected result is Sorry..'HHGJJ' does not match any product on Rediff Books.
+2018-05-11 11:44:48 INFO  BaseClass:55 - Executing the testcase GB_09 order set is 1.0
+2018-05-11 11:44:59 INFO  BaseClass:55 - Executing the testcase GB_10 order set is 1.0
+2018-05-11 11:45:09 INFO  BaseClass:55 - Executing the testcase GB_11 order set is 1.0
+2018-05-11 11:48:42 INFO  BaseClass:24 - Executing the testcase GB_08 order set is 1.0
+2018-05-11 11:48:47 INFO  BaseClass:34 - Passed as actual result is Sorry..'HHGJJ' does not match any product on Rediff Books. Expected result is Sorry..'HHGJJ' does not match any product on Rediff Books.
+2018-05-11 11:48:53 INFO  BaseClass:55 - Executing the testcase GB_09 order set is 1.0
+2018-05-11 11:48:59 INFO  BaseClass:69 - Failed as actual result is Found 493 result(s) for 'Ways' Expected result is Found 493 result(s) for 'Ways'
+2018-05-11 11:49:07 INFO  BaseClass:55 - Executing the testcase GB_10 order set is 1.0
+2018-05-11 11:49:15 INFO  BaseClass:69 - Failed as actual result is Found 89 result(s) for 'Chandler' Expected result is Found 89 result(s) for 'Chandler'
+2018-05-11 11:49:21 INFO  BaseClass:55 - Executing the testcase GB_11 order set is 1.0
+2018-05-11 11:49:27 INFO  BaseClass:69 - Failed as actual result is Found 1 result(s) for 'Jaico' Expected result is Found 1 result(s) for 'Jaico'
+2018-05-11 11:51:15 INFO  BaseClass:55 - Executing the testcase GB_09 order set is 1.0
+2018-05-11 11:55:20 INFO  BaseClass:24 - Executing the testcase GB_08 order set is 1.0
+2018-05-11 11:55:26 INFO  BaseClass:34 - Passed as actual result is Sorry..'HHGJJ' does not match any product on Rediff Books. Expected result is Sorry..'HHGJJ' does not match any product on Rediff Books.
+2018-05-11 11:55:32 INFO  BaseClass:55 - Executing the testcase GB_09 order set is 1.0
+2018-05-11 11:55:37 INFO  BaseClass:69 - Failed as actual result is Found 493 result(s) for 'Ways' Expected result is Found
+2018-05-11 11:55:43 INFO  BaseClass:55 - Executing the testcase GB_10 order set is 1.0
+2018-05-11 11:55:49 INFO  BaseClass:69 - Failed as actual result is Found 89 result(s) for 'Chandler' Expected result is Found
+2018-05-11 11:55:55 INFO  BaseClass:55 - Executing the testcase GB_11 order set is 1.0
+2018-05-11 11:56:00 INFO  BaseClass:69 - Failed as actual result is Found 1 result(s) for 'Jaico' Expected result is Found
+2018-05-11 11:56:32 INFO  BaseClass:24 - Executing the testcase GB_08 order set is 1.0
+2018-05-11 11:57:03 INFO  BaseClass:24 - Executing the testcase GB_08 order set is 1.0
+2018-05-11 11:57:08 INFO  BaseClass:34 - Passed as actual result is Sorry..'HHGJJ' does not match any product on Rediff Books. Expected result is Sorry..'HHGJJ' does not match any product on Rediff Books.
+2018-05-11 11:57:14 INFO  BaseClass:55 - Executing the testcase GB_09 order set is 1.0
+2018-05-11 11:57:20 INFO  BaseClass:65 - Passed as actual result is Found 493 result(s) for 'Ways' Expected result is Found
+2018-05-11 11:57:26 INFO  BaseClass:55 - Executing the testcase GB_10 order set is 1.0
+2018-05-11 11:57:31 INFO  BaseClass:65 - Passed as actual result is Found 89 result(s) for 'Chandler' Expected result is Found
+2018-05-11 11:57:38 INFO  BaseClass:55 - Executing the testcase GB_11 order set is 1.0
+2018-05-11 11:57:44 INFO  BaseClass:65 - Passed as actual result is Found 1 result(s) for 'Jaico' Expected result is Found

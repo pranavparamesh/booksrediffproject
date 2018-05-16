@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Test(failed)">
+    <groups>
+      <run>
+        <include name="sanity"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Scenario_Component.Scenario_Search">
+        <methods>
+          <include name="launchApplication"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Scenario_Component.Scenario_Search -->
+      <class name="Scenario_Component.Scenario_Login">
+        <methods>
+          <include name="launchApplication"/>
+          <include name="tearDown"/>
+          <include name="testValidlogin" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Scenario_Component.Scenario_Login -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
